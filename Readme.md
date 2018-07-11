@@ -3,22 +3,20 @@
 
 ## Sdkjs
 
-JavaScript SDK which is a part of [ONLYOFFICE Document Server][2]. Contains API for all the included components client-side interaction.
+JavaScript SDK which is a part of [ASC-OFFICE Document Server][2]. Contains API for all the included components client-side interaction.
 
 ## Project Information
 
-Official website: [http://www.onlyoffice.org](http://onlyoffice.org "http://www.onlyoffice.org")
+Official website: [http://asc-office.com](http://asc-office.com "http://asc-office.com")
 
-Code repository: [https://github.com/ONLYOFFICE/sdkjs](https://github.com/ONLYOFFICE/sdkjs "https://github.com/ONLYOFFICE/sdkjs")
-
-SaaS version: [http://www.onlyoffice.com](http://www.onlyoffice.com "http://www.onlyoffice.com")
+Code repository: [https://github.com/ASC-OFFICE/sdkjs](https://github.com/ASC-OFFICE/sdkjs "https://github.com/ASC-OFFICE/sdkjs")
 
 ## User Feedback and Support
 
-If you have any problems with or questions about [ONLYOFFICE Document Server][2], please visit our official forum to find answers to your questions: [dev.onlyoffice.org][1] or you can ask and answer ONLYOFFICE development questions on [Stack Overflow][3].
+If you have any problems with or questions about [ASC-OFFICE Document Server][2], please visit our official forum to find answers to your questions: [dev.asc-office.com][1] or you can ask and answer ASC-OFFICE development questions on [Stack Overflow][3].
 
   [1]: http://dev.onlyoffice.org
-  [2]: https://github.com/ONLYOFFICE/DocumentServer
+  [2]: https://github.com/ASC-OFFICE/DocumentServer
   [3]: http://stackoverflow.com/questions/tagged/onlyoffice
   
 ## License
